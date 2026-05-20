@@ -1,0 +1,8 @@
+# xboard73 — 73键自定义键盘（68+5左侧列）
+# 主控：nRF52840
+# 固件：ZMK
+# 配列：标准 68 配列左侧半格间距加一列 5 键（Esc, F1-F4）
+# PCB 天线：板载倒F天线 + π型匹配网络
+
+name: xboard73
+manufacturer: DIY

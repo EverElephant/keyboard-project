@@ -1,0 +1,7 @@
+# build.yaml — GitHub Actions 构建配置
+# 开发阶段先用 nRF52840 DK 作为 board target
+# 出 PCB 后可改成自定义 board 或合入 shield
+
+include:
+  - board: nrf52840dk_nrf52840
+    shield: xboard73

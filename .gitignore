@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.hex
+*.bin
+target/
+__pycache__/
+*.pyc
+.DS_Store
